@@ -2,7 +2,7 @@ package test
 
 import (
     "testing"
-    "user-api/internal/services"
+    "Task5/internal/services"
     "github.com/stretchr/testify/assert"
 )
 
