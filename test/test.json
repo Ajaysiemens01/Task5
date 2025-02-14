@@ -1,0 +1,60 @@
+{
+    "data": [
+      {
+        "type": "users",
+        "id": "5e5ee2cd-752d-425f-9a52-7ace3d436d89",
+        "attributes": {
+          "email": "ajay@siemens.com",
+          "password": "$2a$10$f.F2cmoViXm/Gscj0KI4reHxNu2zeth13Fph2C54HA6uStkLGsK7W",
+          "username": "Ajay",
+          "role": "admin",
+          "status": "active"
+        }
+      },
+      {
+        "type": "users",
+        "id": "b4c2f113-2d7e-4813-92f1-1e335652e56d",
+        "attributes": {
+          "email": "john@siemens.com",
+          "password": "$2a$10$kyD0o/aX3tycpG0DpkpQwebEf6uk5FhGX5sboXbD9XIecjhPIvvli",
+          "username": "John",
+          "role": "operator",
+           "status": "suspended"
+        }
+      },
+      {
+        "type": "users",
+        "id": "04c30f7f-8dc3-4043-b18e-7b5dc287e001",
+        "attributes": {
+          "email": "john@google.com",
+          "password": "$2a$10$k9kaX5dDWqA2/.ljC/CLwuseFx4h9pUcurHVUTsQgZg1FW79HdGtu",
+          "username": "Jane",
+          "role": "engineer",
+           "status": "active"
+        }
+      },
+      {
+        "type": "users",
+        "id": "8ea4aa8c-be03-492b-b6e7-6c74e298e23f",
+        "attributes": {
+          "email": "peter@yahoo.com",
+          "password": "$2a$10$FHVsqHpaKWxJDKo3bQtUk.GXpKK2Aa5eDm3viuwBoJi/1Ebw000gW",
+          "username": "Peter",
+          "role": "manager",
+           "status": "inleave"
+        }
+      },
+      {
+        "type": "users",
+        "id": "7fe1f497-57ac-4e10-a041-2beb9896495f",
+        "attributes": {
+          "email": "henry@siemens.com",
+          "password": "$2a$10$KTZ7.mdCJcXp.W0YS6s61./QjaKj7diuftJUQirDkCuKrnpKeGD8C",
+          "username": "Henry",
+          "role": "intern",
+          "status": "active"
+        }
+      }
+    ]
+  }
+  
